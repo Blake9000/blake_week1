@@ -24,3 +24,15 @@ Description: Pulled the updated progress.txt from GitHub to my local repository
 
 Que 9 - git branch feature1, progress.txt edited on: local machine, command ran on: local machine
 Description: Created a new branch named feature1
+
+Que 10 - git checkout feature1, progress.txt edited on: local machine, command ran on: local machine
+Description: Switched from main branch to feature1 branch
+
+Que 11 - Edited app.py, progress.txt edited on: local machine, command ran on: local machine
+Description: Modified the print statement in app.py using a code editor
+
+Que 12 - git add app.py / git commit -m, progress.txt edited on: local machine, command ran on: local machine
+Description: Staged and committed the updated app.py file on feature1 branch
+
+Que 13 - git checkout main, progress.txt edited on: local machine, command ran on: local machine
+Description: Switched back to main branch
