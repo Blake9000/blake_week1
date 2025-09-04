@@ -19,3 +19,5 @@ Description: Pushed the initial commit to the GitHub repository
 Que 7 - Edited progress.txt directly on GitHub, progress.txt edited on: GitHub website 
 Description: Backlogged commands on the github website
 
+Que 8 - git pull origin main, progress.txt edited on: local machine, command ran on: local machine
+Description: Pulled the updated progress.txt from GitHub to my local repository
