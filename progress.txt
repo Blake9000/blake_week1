@@ -57,3 +57,6 @@ Description: Checked current status
 
 Que 20 - git log --oneline --graph, progress.txt edited on: local machine, command ran on: local machine
 Description: Viewed recent commit history
+
+Que 21 - git remote -v, progress.txt edited on: local machine, command ran on: local machine
+Description: Displayed remote URL
