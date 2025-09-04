@@ -32,11 +32,13 @@ Que 11 - Edited app.py, progress.txt edited on: local machine, command ran on: l
 Description: Modified the print statement in app.py using a code editor
 
 Que 12 - git add app.py / git commit -m, progress.txt edited on: local machine, command ran on: local machine
-<<<<<<< HEAD
 Description: Staged and committed the updated app.py file on feature1 branch
 
 Que 13 - git checkout main, progress.txt edited on: local machine, command ran on: local machine
 Description: Switched back to main branch
-=======
-Description: Staged and committed the updated app.py file on feature1 branch
->>>>>>> feature1
+
+Que 14 - git merge feature1, progress.txt edited on: local machine, command ran on: local machine
+Description: Merged changes from feature1 branch into main branch
+
+Que 15 - git push, progress.txt edited on: local machine, command ran on: local machine
+Description: Pushed merged changes on main branch to GitHub
