@@ -48,3 +48,7 @@ Description: Deleted the feature1 branch locally
 
 Que 17 - git checkout -b test-branch / git push -u origin test-branch, progress.txt edited on: local machine, command ran on: local machine
 Description: Created a new branch test-branch and pushed it to GitHub
+
+Que 18 - git branch -a, progress.txt edited on: local machine, command ran on: local machine
+Description: Listed all branches available locally and remotely
+
