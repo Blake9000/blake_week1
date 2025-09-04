@@ -52,3 +52,5 @@ Description: Created a new branch test-branch and pushed it to GitHub
 Que 18 - git branch -a, progress.txt edited on: local machine, command ran on: local machine
 Description: Listed all branches available locally and remotely
 
+Que 19 - git status, progress.txt edited on: local machine, command ran on: local machine
+Description: Checked current status 
