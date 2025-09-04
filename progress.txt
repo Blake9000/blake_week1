@@ -63,3 +63,9 @@ Description: Displayed remote URL
 
 Que 22 - git help branch, progress.txt edited on: local machine, command ran on: local machine
 Description: Checked documentation
+
+Que 24 - git add .gitignore, progress.txt edited on: local machine, command ran on: local machine
+Description: Added .gitignore
+
+Que 25 - Uploaded screenshot of GitHub network graph, progress.txt edited on: local machine, command ran on: local machine
+Description: uploaded screenshot of network graph
