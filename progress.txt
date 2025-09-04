@@ -60,3 +60,6 @@ Description: Viewed recent commit history
 
 Que 21 - git remote -v, progress.txt edited on: local machine, command ran on: local machine
 Description: Displayed remote URL
+
+Que 22 - git help branch, progress.txt edited on: local machine, command ran on: local machine
+Description: Checked documentation
